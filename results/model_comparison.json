@@ -1,0 +1,14 @@
+{
+  "best_model": "cnn",
+  "best_checkpoint": "checkpoints\\cnn_best.pt",
+  "models": {
+    "mlp": {
+      "q3_accuracy": 0.4875536352355465,
+      "macro_f1": 0.46834365475771
+    },
+    "cnn": {
+      "q3_accuracy": 0.679833151434509,
+      "macro_f1": 0.6658969598182151
+    }
+  }
+}
